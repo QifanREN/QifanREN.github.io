@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qifanren.github.io</id>
     <title>Zero | 任启帆的个人主页</title>
-    <updated>2020-03-18T23:11:40.927Z</updated>
+    <updated>2020-03-18T23:37:37.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qifanren.github.io"/>
     <link rel="self" href="https://qifanren.github.io/atom.xml"/>
@@ -15,9 +15,13 @@
         <id>https://qifanren.github.io/post/lesslesszi-si-de-ji-yin-greatergreater-du-shu-bi-ji/</id>
         <link href="https://qifanren.github.io/post/lesslesszi-si-de-ji-yin-greatergreater-du-shu-bi-ji/">
         </link>
-        <updated>2020-03-18T03:42:36.000Z</updated>
+        <updated>2020-03-16T11:42:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>理查德·道金斯<br>
+47个笔记</p>
+]]></summary>
         <content type="html"><![CDATA[<p>理查德·道金斯<br>
 47个笔记</p>
+<!-- more -->
 <h2 id="第1章-为什么会有人呢">第1章 为什么会有人呢？</h2>
 <p><strong>没有生物学基础，不了解种种学说，第一章讲的毫无逻辑，层次感非常不清晰，似乎是想到哪里讲到哪里。希望在读到后面的时候，能理解第一章内容</strong></p>
 <blockquote>
@@ -201,7 +205,7 @@
         <id>https://qifanren.github.io/post/hello-gridea/</id>
         <link href="https://qifanren.github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-11T00:00:00.000Z</updated>
+        <updated>2018-12-10T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
